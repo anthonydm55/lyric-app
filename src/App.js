@@ -6,8 +6,6 @@ import Index from "./components/layout/Index";
 
 import { Provider } from "./context";
 
-// Timestamp - 28:30
-
 class App extends Component {
   render() {
     return (
